@@ -1,5 +1,7 @@
 # BIST Mutual Funds Liquidity & Concentration Risk Engine
 
+> **English Summary:** An open-source quantitative risk & liquidity stress testing engine modeling redemption shock dynamics, portfolio concentration, and Days-to-Liquidate (DTL) metrics across Turkish mutual funds under market distress.
+> 
 Borsa Istanbul (BIST) ve TEFAS ekosistemindeki fonlar için portfoy yogunlasmasi, fiili dolasim payi ve gerceklesmis islem hacimlerine dayali tasfiye suresi (Days-to-Liquidate) analitiği sunan nicel risk denetim motoru.
 
 ![Fund Risk Scorecard](fund_risk_scorecard.png)
